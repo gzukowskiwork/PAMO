@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Kalkulator BMI</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="weight">Masa ciała w kg</string>
+    <string name="height">Wzrost w cm</string>
+    <string name="title_bmi_calculator">Kalkulator BMI</string>
+    <string name="calculate_bmi_button">Oblicz BMI</string>
+
+
+    <string name="starved">Wygłodzenie/niedowaga</string>
+    <string name="emaciation">Wychudzenie/niedowaga</string>
+    <string name="underweight">Niedowaga/niedowaga</string>
+    <string name="optimal">Waga optymalna/optimum</string>
+    <string name="overweight">Nadwaga/nsdwaga</string>
+    <string name="obesity_level_I">Otyłość 1 stopnia/otyłość</string>
+    <string name="obesity_level_II">Otyłość 2 stopnia/otyłość</string>
+    <string name="obesity_level_III">Otyłość 3 stopnia/otyłość</string>
+    <string name="change_page">Rekomenduj diete na podstawie BMI</string>
+    <string name="bmi_val_null">Oblicz BMI aby zobaczyć sugerowaną dietę</string>
+
+    <string name="how_many_calories">Ile moge zjesc kalorii</string>
+    <string name="go_back_button">Powrot</string>
+    <string name="title_activity_how_many_calories">HowManyCalories</string>
+
+    <string name="male">Mężczyzna</string>
+    <string name="female">Kobieta</string>
+    <string name="age">Wiek w latach</string>
+    <string name="calculate_harris_benedict">Minimalne Kcal</string>
+
+    <string name="eat_alot">Jedz dużo</string>
+    <string name="stay_like_that">Nie zmieniaj diety</string>
+    <string name="loose_weight_fatty">Schudnij grubasie</string>
+    <string name="title_activity_covid_chart">CovidChartActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="covid_chart_button">Wykres zachorowań na COVID-19</string>
+    <string name="covid_quiz_button">Quiz wiedzy o COVID-19</string>
+
+    <string name="covid_quiz_title">CovidQuiz</string>
+    <string name="covid_quiz_start_button">START</string>
+    <string name="your_name_here">Wprowadź swoje imie</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="quit_to_main">Powrót do menu</string>
+    <string name="helllo_user">Witaj Użytkowniku</string>
+    <string name="hello">Witaj </string>
+    <string name="select_at_least_one">Wybierz przynajmniej jedną odpowiedź</string>
+    <string name="correct">Poprawne</string>
+    <string name="wrong">Błędne</string>
+    <string name="empty"> </string>
+    <string name="user_name">Nazwa użytkownika</string>
+    <string name="correct_answers">Poprawne odpowiedzi: </string>
+    <string name="wrong_answers">Błędne odpowiedzi: </string>
+    <string name="final_score">Wynik: </string>
+    <string name="question1">W jakim kraju miała początek epidemia koronawirusa</string>
+
+    <string name="questions">Pytania</string>
+    <string name="your_score">Twój wynik</string>
+    <string name="zero">0</string>
+    <string name="quit">Zakończ</string>
+    <string name="next_question">Następne pytanie</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+
+</resources>

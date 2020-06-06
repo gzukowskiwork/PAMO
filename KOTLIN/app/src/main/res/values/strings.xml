@@ -1,0 +1,26 @@
+<resources>
+    <string name="nav_clac_bmi_button">Kalkulator BMI</string>
+    <string name="nav_diet_recomendation">Rekomenduj dietę</string>
+    <string name="nav_kcal_recomendation">Ile moge zjeść kalorii</string>
+
+    <string name="app_name">BmiKotlin</string>
+    <string name="height">Wzrost</string>
+    <string name="weight">Waga</string>
+    <string name="calculate_bmi_button">Oblicz BMI</string>
+    <string name="enter_values">Uzupełniej powyższe pola</string>
+    <string name="bmi_value_underweight"><b>Bmi wynosi %1$s, masz niedowagę</b></string>
+    <string name="bmi_value_ok_weight"><b>Bmi wynosi %1$s, masz idealną wagę</b></string>
+    <string name="bmi_value_overweight"><b>Bmi wynosi %1$s, masz nadwagę</b></string>
+    <string name="calculate_bmi_before">Na początek oblicz BMI</string>
+
+    <string name="bmi_diet_low">Do bułki dodaj kotleta z miesa mielonego i posiekane warzywa oraz sos majonezowy</string>
+    <string name="bmi_diet_medium">Warzywa z kurczakiem ugotuj na parze przez 20 minut</string>
+    <string name="bmi_diet_high">Jedz tylko warzywa</string>
+    <string name="smothing_went_wrong">coś nie tak</string>
+
+    <string name="female">kobieta</string>
+    <string name="male">mężczyzna</string>
+    <string name="age">wiek</string>
+    <string name="calculate_harris_benedict">Mnimalne kalorie</string>
+    <string name="you_can_eat">Kcal %1$s</string>
+</resources>
